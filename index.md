@@ -4,7 +4,7 @@ This is my home page! My name is Lazaro Ponce and I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub page is (http://github.com/LazaroP574).
+My GitHub page is [http://github.com/LazaroP574](http://github.com/LazaroP574).
 
 ### CPSC 120
 
